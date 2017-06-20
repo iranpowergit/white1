@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-cd $HOME/Black
+cd $HOME/white1
 
 install() {
 	    cd tg
